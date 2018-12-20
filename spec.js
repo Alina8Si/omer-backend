@@ -8,7 +8,7 @@ var cn = {
 };
 
 var db = pgp(cn);
-
+//Alina comments on Omer's file
 var arr = [];
 db.any(`SELECT title
 FROM film
